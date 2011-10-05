@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 9/21/2011 12:02:16 AM
+EESchema Schematic File Version 2  date 10/4/2011 9:47:08 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,13 +29,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-EELAYER 43  0
+EELAYER 25  0
 EELAYER END
 $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "21 sep 2011"
+Date "5 oct 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -43,4 +43,10 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Wire Bus Line
+	8100 3400 6600 3400
+Wire Bus Line
+	6600 3400 6600 3700
+Wire Bus Line
+	6600 3700 5400 3700
 $EndSCHEMATC
